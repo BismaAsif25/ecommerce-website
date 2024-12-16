@@ -1,8 +1,8 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { FaChevronDown } from "react-icons/fa";
 import { FaCheck } from "react-icons/fa6";
 import { FaExclamationCircle  } from "react-icons/fa";
-import Link from "next/link";
+// import Link from "next/link";
 
 export const Topbar =() =>{
   return (
